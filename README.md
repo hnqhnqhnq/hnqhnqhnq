@@ -4,10 +4,10 @@ I'm a 20-year-old Computer Science student at the Technical University of Cluj-N
 
 ## 💻 Tech Stack
 
-- **Languages**: <kbd style="background-color: #e0e0e0; padding: 5px; border-radius: 5px;">HTML</kbd>, #CSS, #JavaScript, #C++, #C, #Java, #Python
-- **Databases**: #MySQL
-- **Frameworks**: #Bootstrap, #Django
-- **Tools**: #VSCode, #Git
+- **Languages**: HTML, CSS, JavaScript, C++, C, Java, Python
+- **Databases**: MySQL
+- **Frameworks**: Bootstrap, Django
+- **Tools**: VSCode, Git
 
 ## 📖 Projects
 
