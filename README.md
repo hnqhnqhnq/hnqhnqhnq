@@ -18,4 +18,6 @@ I'm a 20-year-old Computer Science student at the Technical University of Cluj-N
 - **LinkedIn**: [Stefan Hincu](https://www.linkedin.com/in/%C5%9Ftefan-h%C3%AEncu-46508a258)
 - **Portfolio**: Not finished yet! :((
 
+![Stefan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hnqhnqhnq&show_icons=true&theme=radical)
+
 Feel free to explore my repositories and reach out for collaborations or just to chat about coding! 🌐✨
