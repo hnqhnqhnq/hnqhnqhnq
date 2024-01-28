@@ -12,6 +12,7 @@ I'm a 20-year-old Computer Science student at the Technical University of Cluj-N
 ## 📖 Projects
 
 - [**University Platform**](https://github.com/hnqhnqhnq/university-platform.git): A dynamic web application which serves as a university platform. Every student can see his progress during every semester, join courses and take part to activities based on their choices. It also serves as a communication application, students can create different groups for chatting, studying and creating/joining different group events. The technologies used for this project are HTML, CSS, Bootstrap and JavaScript for frontend, Python and Django for backend and MySQL for databases.
+- [**Snake Game**](https://github.com/hnqhnqhnq/snake-web-game.git): A simple snake game using HTML, CSS and JavaScript
 
 ## 🏆 Achievements
 
