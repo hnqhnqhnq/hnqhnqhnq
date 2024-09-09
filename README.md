@@ -8,7 +8,7 @@ I'm a 20-year-old Computer Science student at the Technical University of Cluj-N
 - **Databases**: <kbd style="background-color: #e0e0e0; padding: 8px; border-radius: 5px; font-size: 14px;">MySQL</kbd>, <kbd style="background-color: #e0e0e0; padding: 8px; border-radius: 5px; font-size: 14px;">MongoDB</kbd>
 - **Frameworks**: <kbd style="background-color: #e0e0e0; padding: 8px; border-radius: 5px; font-size: 14px;">Django</kbd>, <kbd style="background-color: #e0e0e0; padding: 8px; border-radius: 5px; font-size: 14px;">Node.js</kbd>, <kbd style="background-color: #e0e0e0; padding: 8px; border-radius: 5px; font-size: 14px;">Express.js</kbd>
 - **APIs**: <kbd style="background-color: #e0e0e0; padding: 8px; border-radius: 5px; font-size: 14px;">REST API</kbd>
-- **Tools**: <kbd style="background-color: #e0e0e0; padding: 8px; border-radius: 5px; font-size: 14px;">VSCode</kbd>, <kbd style="background-color: #e0e0e0; padding: 8px; border-radius: 5px; font-size: 14px;">Git</kbd>, <kbd style="background-color: #e0e0e0; padding: 8px; border-radius: 5px; font-size: 14px;">Github</kbd>
+- **Tools**: <kbd style="background-color: #e0e0e0; padding: 8px; border-radius: 5px; font-size: 14px;">VSCode</kbd>, <kbd style="background-color: #e0e0e0; padding: 8px; border-radius: 5px; font-size: 14px;">Postman</kbd>, <kbd style="background-color: #e0e0e0; padding: 8px; border-radius: 5px; font-size: 14px;">Git</kbd>, <kbd style="background-color: #e0e0e0; padding: 8px; border-radius: 5px; font-size: 14px;">Github</kbd>
 
 ## 📖 Projects
 - [**Find Your Lost Pet**](https://github.com/hnqhnqhnq/find-your-lost-pet)
