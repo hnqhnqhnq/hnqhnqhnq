@@ -12,7 +12,9 @@ I'm a 20-year-old Computer Science student at the Technical University of Cluj-N
 
 ## 📖 Projects
  [**Find Your Lost Pet**](https://github.com/hnqhnqhnq/find-your-lost-pet)
+ 
  A dynamic web application designed to assist individuals in locating their missing pets. The platform fosters a community-driven approach, allowing pet owners to post detailed information about their lost pets and enabling        others to offer help or provide leads.
+ 
     - Pet owners can create posts with photos, descriptions, and contact details to share information about their lost pets.
     - Users can send real-time messages for instant communication between pet owners and helpers.
     - Chatting feature allows users to discuss sightings, tips, and strategies directly within the platform.
