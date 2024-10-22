@@ -1,6 +1,6 @@
 ### Hey, I'm Stefan 👋
 
-I'm a 20-year-old Computer Science student at the Technical University of Cluj-Napoca. I believe in turning lines of code into captivating digital experiences.
+I'm a 21-year-old Computer Science student at the Technical University of Cluj-Napoca. I believe in turning lines of code into captivating digital experiences.
 
 ## 💻 Tech Stack
 
