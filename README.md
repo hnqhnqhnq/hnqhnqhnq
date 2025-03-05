@@ -4,11 +4,12 @@ I'm a 21-year-old Computer Science student at the Technical University of Cluj-N
 
 ## 💻 Tech Stack
 
-- **Languages**: <kbd style="background-color: #e0e0e0; padding: 8px; border-radius: 5px; font-size: 14px;">HTML</kbd>, <kbd style="background-color: #e0e0e0; padding: 8px; border-radius: 5px;">CSS</kbd>, <kbd style="background-color: #e0e0e0; padding: 8px; border-radius: 5px;">JavaScript</kbd>, <kbd style="background-color: #e0e0e0; padding: 8px; border-radius: 5px;">Java</kbd>, <kbd style="background-color: #e0e0e0; padding: 8px; border-radius: 5px;">Python</kbd>
+- **Languages**: <kbd style="background-color: #e0e0e0; padding: 8px; border-radius: 5px;">JavaScript</kbd>, <kbd style="background-color: #e0e0e0; padding: 8px; border-radius: 5px;">Java</kbd>, <kbd style="background-color: #e0e0e0; padding: 8px; border-radius: 5px;">Python</kbd>
+- **Web Stuff**: <kbd style="background-color: #e0e0e0; padding: 8px; border-radius: 5px; font-size: 14px;">HTML</kbd>, <kbd style="background-color: #e0e0e0; padding: 8px; border-radius: 5px;">CSS</kbd>
 - **Databases**: <kbd style="background-color: #e0e0e0; padding: 8px; border-radius: 5px; font-size: 14px;">MySQL</kbd>, <kbd style="background-color: #e0e0e0; padding: 8px; border-radius: 5px; font-size: 14px;">MongoDB(with Mongoose for schema modeling)</kbd>
 - **Frameworks**: <kbd style="background-color: #e0e0e0; padding: 8px; border-radius: 5px; font-size: 14px;">Django</kbd>, <kbd style="background-color: #e0e0e0; padding: 8px; border-radius: 5px; font-size: 14px;">Node.js</kbd>, <kbd style="background-color: #e0e0e0; padding: 8px; border-radius: 5px; font-size: 14px;">Express.js</kbd>
 - **APIs**: <kbd style="background-color: #e0e0e0; padding: 8px; border-radius: 5px; font-size: 14px;">REST API</kbd>
-- **Tools**: <kbd style="background-color: #e0e0e0; padding: 8px; border-radius: 5px; font-size: 14px;">VSCode</kbd>, <kbd style="background-color: #e0e0e0; padding: 8px; border-radius: 5px; font-size: 14px;">Postman</kbd>, <kbd style="background-color: #e0e0e0; padding: 8px; border-radius: 5px; font-size: 14px;">Git</kbd>, <kbd style="background-color: #e0e0e0; padding: 8px; border-radius: 5px; font-size: 14px;">Github</kbd>
+- **Tools**: <kbd style="background-color: #e0e0e0; padding: 8px; border-radius: 5px; font-size: 14px;">Firebase</kbd>, <kbd style="background-color: #e0e0e0; padding: 8px; border-radius: 5px; font-size: 14px;">Postman</kbd>, <kbd style="background-color: #e0e0e0; padding: 8px; border-radius: 5px; font-size: 14px;">VSCode</kbd>, <kbd style="background-color: #e0e0e0; padding: 8px; border-radius: 5px; font-size: 14px;">Postman</kbd>, <kbd style="background-color: #e0e0e0; padding: 8px; border-radius: 5px; font-size: 14px;">Git</kbd>, <kbd style="background-color: #e0e0e0; padding: 8px; border-radius: 5px; font-size: 14px;">Github</kbd>
 
 ## 🏆 Achievements
 
