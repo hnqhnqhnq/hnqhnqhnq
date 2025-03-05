@@ -13,7 +13,7 @@ I'm a 21-year-old Computer Science student at the Technical University of Cluj-N
 
 ## 🏆 Achievements
 
-- Winner of the Devhacks Hackathon 2022
+- [Winner of the Devhacks Hackathon 2022](https://github.com/hnqhnqhnq/devhacks-hackathon-2022-g1s1y1)
 
 ## 📫 Let's Connect
 
